@@ -1,7 +1,7 @@
 ﻿#language: ru
 @tree
 
-@ERPUH32_Purchases
+@ERPUH33_Purchases
 
 Функционал: 04. Запрос котировок [от спз до пту]: Цена вкл.НДС
 

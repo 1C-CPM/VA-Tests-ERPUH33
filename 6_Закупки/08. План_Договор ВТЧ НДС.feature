@@ -1,7 +1,7 @@
 ﻿#language: ru
 @tree
 
-@ERPUH32_Purchases
+@ERPUH33_Purchases
 
 Функционал: 08. Проверка добавления потребности из заявки в договор
 

@@ -1,7 +1,7 @@
 ﻿#language: ru
 @tree
 
-@ERPUH32_Purchases
+@ERPUH33_Purchases
 
 //Функционал: 11. Запрос котировок [от спз до пту]: НДС сверху
 //

@@ -1,7 +1,7 @@
 ﻿#language: ru
 @tree
 
-@UH33_Purchases
+@ERPUH33_Purchases
 
 Функционал: 05. Запрос предложений [от спз до пту]
 
