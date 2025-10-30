@@ -1,7 +1,7 @@
 ﻿#language: ru
 @tree
 
-@ERPUH32_Purchases
+@ERPUH33_Purchases
 
 Функционал: 03. Тесты по закупкам под "Администратор"
 
